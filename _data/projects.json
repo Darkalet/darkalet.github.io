@@ -2,7 +2,7 @@
 	{
 		"slug": "cool-project",
 		"name": "Walk-time areas in Murcia",
-		"image": "p1.jpg",
+		"image": "p1.png",
 		"url": "https://darkalet.carto.com/builder/4684897d-77e5-4ba1-8bbb-84834ca60031/embed",
 		"date": "October 2019",
 		"tags": ["QGIS","CARTO", "OPENROUTESERVICE", "OSM"]
