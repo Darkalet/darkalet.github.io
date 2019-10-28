@@ -1,9 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Dani♥Maps
+description: 
+author: Dani Trenado
+github: https://github.com/darkalet
+about: Soy geógrafo y analista SIG. Represento visualmente elementos espaciales para ayudar a la toma de decisiones. Y por diversión también :) 
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -15,16 +14,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/da_nielet"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "www.linkedin.com/in/daniel-trenado-gutiérrez-a8a25128"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/darkalet"
 
 share:
   twitter_username: github.io
