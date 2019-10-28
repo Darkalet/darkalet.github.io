@@ -1,9 +1,12 @@
-title: Dani♥Maps
-description: 
-author: Dani Trenado
+title: DaniLovesMaps
+description: the webzone of jonah adkins
+author: Jonah Adkins
 github: https://github.com/darkalet
-about: Soy geógrafo y analista SIG. Represento visualmente elementos espaciales para ayudar a la toma de decisiones. Y por diversión también :) 
+about: Cartography, OpenStreetMap, Open Data, Music, Disney, Sports Cards, Pro-Wrestling, and Ink.
+disqus_shortname:
+google_analytics:
 avatar_url: /static/img/avatar.png
+repository: darkalet/darkalet.github.io
 
 enableTags: true
 tagarray: []
@@ -15,32 +18,35 @@ collections:
 
 social:
     - icon: fa-twitter
-      link: "https://twitter.com/da_nielet"
+      link: "https://twitter.com/jonahadkins"
     - icon: fa-linkedin
-      link: "www.linkedin.com/in/daniel-trenado-gutiérrez-a8a25128"
+      link: "https://www.linkedin.com/in/jonahadkins"
     - icon: fa-github
-      link: "https://github.com/darkalet"
-      - icon: fa-envelope
-      link: "mailto:datregu@gmail.com"
+      link: "https://github.com/jonahadkins"
+    - icon: fa-envelope
+      link: "mailto:jonahadkins@gmail.com"
 
 share:
   twitter_username: da_nielet
-  
+  fb_appid:
+
 urls:
-    - text: About Me
+    - text: Resume
+      url: /resume_for_jonah_adkins.pdf
+    - text: About
       url: /about/
-    - text: My Projects
+    - text: Projects
       url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://darkalet.github.io"
+url: "https://jonahadkins.com/"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
@@ -48,5 +54,3 @@ compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
   endings: all
-  ignore:
-    envs: ['development']
