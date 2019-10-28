@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-02-19 21:28:15 +0700
-categories: [jekyll]
+title:  "Walk time areas in Murcia"
+date:   2019-10-28 
+categories: [QGIS]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The first map i dare to upload here its gonna be about Murcia, the city i currently live now. Throught the days I've spent walking in its streets i've been observing the amount of people who uses a private car for relatively short distances, that in most cases a short walk would be more time saving, given the amount of time needed to find a parking site (Which the city center lacks). With that in mind, i did an easy map in QGIS, using the [Open-route-service] complement, that uses [Open-Street-Map] data to calculate time and distance isochrones. The center of the map is Murcia's most known roundabout, Plaza Circular, mostly used as an appointment place.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Openrouteservice]: https://openrouteservice.org/
+[Open-Street-Map]: https://www.openstreetmap.org
