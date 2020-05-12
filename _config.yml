@@ -6,7 +6,7 @@ about: Soy geógrafo y analista SIG. Represento visualmente elementos espaciales
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
-tagarray: []
+tagarray: [gis, qgis]
 
 collections:
   project:
