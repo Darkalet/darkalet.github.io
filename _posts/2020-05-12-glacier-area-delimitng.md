@@ -2,8 +2,8 @@
 layout: post
 title:  "Glacier area delimiting"
 date:   2020-05-12 
-categories: [QGIS] [SEMI-AUTOMATIC CLASSIFICATION PLUGIN]
-slug: "glacier"
+categories: [gis] 
+tags: [qgis, semi-automatic classification plugin]
 ---
 One of my favorite memories while studying at UNIGIS was learning about remote sensing, its methods and its tools. While doing my degree, years ago, I barely studied this field, so I was gratefully surprised when I had the opportunity of learning all I could. A project related to this subject was the delimitation of the Maladeta Glacier in the summer of 2016, using [Landsat 8] imagery.
 
