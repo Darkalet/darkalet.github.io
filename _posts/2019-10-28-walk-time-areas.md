@@ -3,7 +3,7 @@ layout: post
 title:  "Walk-time areas in Murcia"
 date:   2019-10-28 
 categories: [gis]
-tags: [qgis, osm]
+tags: [qgis, openrouteservice, osm]
 ---
 The first map i dare to upload here its gonna be about Murcia, the city i currently live now. Throught the days I've spent walking in its streets i've been observing the amount of people who uses a private car for relatively short distances, that in most cases a short walk would be more time saving, given the amount of time needed to find a parking spot (which the city center lacks). 
 ![Walk time areas in Murcia](/static/projects/p2.jpg){:class="img-responsive"}
