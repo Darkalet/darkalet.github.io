@@ -4,6 +4,13 @@
 		"image": "p3.png",
 		"url": "https://darkalet.github.io/gis/2020/05/12/glacier-area-delimitng.html",
 		"date": "May 2020",
-		"tags": ["qgis","semi-automatic classification plugin"]
+		"tags": ["qgis","semi-automatic classification plugin"],
+	},
+	{
+		"name": "Walk-time areas in Murcia",
+		"image": "p2.jpg",
+		"url": "https://darkalet.github.io/gis/2019/10/28/walk-time-areas.html",
+		"date": "November 2019",
+		"tags": ["qgis","openrouteservice", "osm"]
 	}
 ]
