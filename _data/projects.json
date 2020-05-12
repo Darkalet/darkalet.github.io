@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "/_post/2020-05-12-glacier-area-delimitng.md",
+		"name": "Glacier area delimiting",
+		"image": "p3.png",
+		"url": "https://darkalet.github.io/gis/2020-05-12-glacier-area-delimitng.md",
+		"date": "May 2020",
+		"tags": ["QGIS","SEMI-AUTOMATIC CLASSIFICATION PLUGIN"]
+	},
+	{
 		"slug": "/_post/2019-10-28-walk-time-areas.md",
 		"name": "Walk-time areas in Murcia",
 		"image": "p2.jpg",
