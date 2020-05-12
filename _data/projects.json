@@ -8,10 +8,10 @@
 		"tags": ["QGIS","OPENROUTESERVICE", "OSM"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
+		"name": "A glacier's area delimiting",
+		"image": "p3.png",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"date": "May 2020",
+		"tags": ["QGIS","Semi-Automatic Classification Plugin"]
 	}
 ]
