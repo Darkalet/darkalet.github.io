@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Walk time areas in Murcia"
+title:  "Walk-time areas in Murcia"
 date:   2019-10-28 
 categories: [QGIS]
 ---
