@@ -8,7 +8,7 @@ Hi! I'm Daniel, and I'm a GIS Analyst. After completing a Geography Degree at [U
 
 I work with a wide range of gis-related tools, with special emphasis  in open source software.
 
-If you like my work and would like to meet me, you can contact me at datregu@gmail.com
+If you like my work, you can contact me at datregu@gmail.com
 
-[University of Valencia] site: https://www.uv.es/uvweb/undergraduate-degree-geography-environment/en/degree-geography-environment-1285936391272.html
-[UNIGIS]  site: https://www.unigis.es
+[University of Valencia]: https://www.uv.es/uvweb/undergraduate-degree-geography-environment/en/degree-geography-environment-1285936391272.html
+[UNIGIS]: https://www.unigis.es
