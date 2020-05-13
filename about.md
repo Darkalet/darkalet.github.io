@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Hi! I'm Daniel, and I'm a GIS Analyst. After completing a Geography Degree at [University of Valencia], I started to gain interest in cartography and everything related to GIS. I took [UNIGIS] Professional Master in Geographical Information Systems, and specialized in Geospatial Analysis. To complete even more my knowledge and skills I’ve done several courses, like Environmental Education and Environmental Impact Analysis.
 
-email: agus[at]python.web.id
+I work with a wide range of gis-related tools, with special emphasis  in open source software.
+
+If you like my work and would like to meet me, you can contact me at datregu@gmail.com
+
+[University of Valencia] site: https://www.uv.es/uvweb/undergraduate-degree-geography-environment/en/degree-geography-environment-1285936391272.html
+[UNIGIS]  site: https://www.unigis.es
