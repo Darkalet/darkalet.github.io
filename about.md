@@ -17,7 +17,7 @@ On the GIS side, I have been employed by companies to do all kinds of *geothings
 · Spatial analysis  
 · Cartographic production  
 · Database maintenance  
-·...and so on   
+...and so on   
 
 I work with a wide range of gis-related tools, with special emphasis in open source software.
 ![software](/static/img/software.png){:class="img-responsive"}
