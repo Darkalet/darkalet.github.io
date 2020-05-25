@@ -22,7 +22,7 @@ Database maintenance
 I work with a wide range of gis-related tools, with special emphasis in open source software.
 ![software](/static/img/software.png){:class="img-responsive"}
 
-In my free time I like to contribute my grain of salt to the [OpenStreetMap] initiative, and his [Humanitarian OSM Team].
+In my free time I like to contribute my grain of salt to the [OpenStreetMap] initiative, and the [Humanitarian OSM Team].
 
 ![osm](/static/img/osm.png){:class="img-responsive"}
 
