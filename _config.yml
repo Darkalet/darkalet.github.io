@@ -3,7 +3,6 @@ description:
 author: Dani Trenado
 github: https://github.com/darkalet
 about: Soy geógrafo y analista SIG. Represento visualmente elementos espaciales para ayudar a la toma de decisiones. Y por diversión también :) 
-avatar: /static/img/avatar.png
 
 enableTags: true
 tagarray: [gis, qgis]
@@ -20,12 +19,10 @@ social:
       link: "www.linkedin.com/in/daniel-trenado-gutiérrez-a8a25128"
     - icon: fa-github
       link: "https://github.com/darkalet"
-   - icon: fa-envelope
-      link: "mailto:datregu@gmail.com"
 
 share:
   twitter_username: da_nielet
-  fb_appid: 1749788565247320
+  fb_appid: 
 
 urls:
     - text: About Me
