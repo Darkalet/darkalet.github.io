@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Daniel, and I'm a GIS Analyst/Cartographer/Geo-everything-lover.
 
-![avatar](/static/img/avatar.png)
+![avatar](/static/img/avatar.png){:class="img-responsive"}
 
 After completing a Geography Degree at [University of Valencia], I started to gain interest in cartography and everything related to GIS. I took [UNIGIS] Professional Master in Geographical Information Systems, and specialized in Geospatial Analysis. To complete even more my knowledge and skills I’ve done several courses, like Environmental Education and Environmental Impact Analysis.
 
