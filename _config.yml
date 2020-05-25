@@ -20,6 +20,8 @@ social:
       link: "www.linkedin.com/in/daniel-trenado-gutiérrez-a8a25128"
     - icon: fa-github
       link: "https://github.com/darkalet"
+   - icon: fa-envelope
+      link: "mailto:datregu@gmail.com"
 
 share:
   twitter_username: da_nielet
