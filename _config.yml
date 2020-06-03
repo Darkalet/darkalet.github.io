@@ -31,6 +31,8 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: My Resume
+      url: /static/CV_Daniel_Trenado.pdf
 
 url: "https://darkalet.github.io"
 baseurl: ""
