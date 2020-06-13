@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Calculation and display of Azimuth",
+		"image": "direccion_cuencas_segura.png",
+		"url": "#poner nueva dirección",
+		"date": "Juny 2020",
+		"tags": ["qgis","azimuth", "field calculator"],
+	},
+	{
 		"name": "Glacier area delimiting",
 		"image": "p3.png",
 		"url": "https://darkalet.github.io/gis/2020/05/12/glacier-area-delimitng.html",
