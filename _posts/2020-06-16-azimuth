@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Calculation and display of Azimuth"
+date:   2020-06-16 
+categories: [gis]
+tags: [qgis, field calculator, azimuth]
+---
+
+Minimalistic maps have always a soft spot in my heart. In the last weeks I’ve been watching a lot of simple, yet useful and informative minimalistic maps. Though the most of the them only displays  streets and blocks of the most iconic cities in a monochromatic style, I found the works of [Robert Szucs], which i felt immediately in love. His maps are a great example of minimalism and scientific accuracy at the same time. And plenty of vibrant colors!
+
+Inspired by him, I tried to mess around with a dataset of the [Segura Hydrographic Confederation], and make a map as simple as possible, displaying the cardinal direction of each individual line through colours.
+
+In order to make this, I used this little formula in the field calculator to transform the cartographical azimuthal result automatically in degrees:
+![field calculator](/static/projects/direccion_cuencas_segura_1.png){:class="img-responsive"}
+Using this degrees I made a new field, that displays each line cardinal or intercardinal direction, pre-establishing different degrees ranges. 
+
+At this point I had a tiny little problem, the fact that QGIS doesn’t include a cyclic colour ramp generator. Cyclic colour maps have colours that match at each end, perfect for this case. Luckily [Peter Kovesi website] (Member of the Geophysics & Image Analysis Group at Western Australia University) includes a great download section with colour maps (including cyclic colour maps) designed to have uniform perceptual contrast over in their whole range for a wide variety of software, includying QGIS :)
+![Cyclic colour](/static/projects/direccion_cuencas_segura_2.png){:class="img-responsive"}
+With a new QGIS style in my power (yes!) I finished my map. I could have worked the cardinal direction rose a bit more, but I wanted it to be as simplistic as possible. And I think I achieved that!
+
+![map](/static/projects/direccion_cuencas_segura.png){:class="img-responsive"}
+
+
+Kudos to Peter Kovesi :D
+Peter Kovesi. Good Colour Maps: How to Design Them.
+arXiv:1509.03700 [cs.GR] 2015
+[Robert Szucs]: https://www.grasshoppergeography.com/
+[Segura Hydrographic Confederation]: https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Hidrogr%C3%A1fica_del_Segura
+[Peter Kovesi website]: https://peterkovesi.com/
