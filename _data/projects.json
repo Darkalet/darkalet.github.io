@@ -2,7 +2,7 @@
 	{
 		"name": "Calculation and display of Azimuth",
 		"image": "direccion_cuencas_segura.png",
-		"url": "https://darkalet.github.io/gis/2020/06/16/azimuth",
+		"url": "https://darkalet.github.io/gis/2020/06/16/azimuth.html",
 		"date": "Juny 2020",
 		"tags": ["qgis","azimuth", "field calculator"],
 	},
