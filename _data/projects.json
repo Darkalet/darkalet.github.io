@@ -2,21 +2,21 @@
 	{
 		"name": "Calculation and display of Azimuth",
 		"image": "direccion_cuencas_segura.png",
-		"url": "https://darkalet.github.io/gis/2020/06/16/azimuth.html",
+		"url": "https://datregu.github.io/gis/2020/06/16/azimuth.html",
 		"date": "Juny 2020",
 		"tags": ["qgis","azimuth", "field calculator"],
 	},
 	{
 		"name": "Glacier area delimiting",
 		"image": "p3.png",
-		"url": "https://darkalet.github.io/gis/2020/05/12/glacier-area-delimitng.html",
+		"url": "https://datregu.github.io/gis/2020/05/12/glacier-area-delimitng.html",
 		"date": "May 2020",
 		"tags": ["qgis","semi-automatic classification plugin", "remote sensing"],
 	},
 	{
 		"name": "Walk-time areas in Murcia",
 		"image": "p2.jpg",
-		"url": "https://darkalet.github.io/gis/2019/10/28/walk-time-areas.html",
+		"url": "https://datregu.github.io/gis/2019/10/28/walk-time-areas.html",
 		"date": "November 2019",
 		"tags": ["qgis","openrouteservice", "osm"]
 	}
